@@ -1,0 +1,14 @@
+C:\Users\97525\Desktop\C#\Comandos\EncadeamentoCondicional\bin\Debug\net7.0\EncadeamentoCondicional.exe
+C:\Users\97525\Desktop\C#\Comandos\EncadeamentoCondicional\bin\Debug\net7.0\EncadeamentoCondicional.deps.json
+C:\Users\97525\Desktop\C#\Comandos\EncadeamentoCondicional\bin\Debug\net7.0\EncadeamentoCondicional.runtimeconfig.json
+C:\Users\97525\Desktop\C#\Comandos\EncadeamentoCondicional\bin\Debug\net7.0\EncadeamentoCondicional.dll
+C:\Users\97525\Desktop\C#\Comandos\EncadeamentoCondicional\bin\Debug\net7.0\EncadeamentoCondicional.pdb
+C:\Users\97525\Desktop\C#\Comandos\EncadeamentoCondicional\obj\Debug\net7.0\EncadeamentoCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97525\Desktop\C#\Comandos\EncadeamentoCondicional\obj\Debug\net7.0\EncadeamentoCondicional.AssemblyInfoInputs.cache
+C:\Users\97525\Desktop\C#\Comandos\EncadeamentoCondicional\obj\Debug\net7.0\EncadeamentoCondicional.AssemblyInfo.cs
+C:\Users\97525\Desktop\C#\Comandos\EncadeamentoCondicional\obj\Debug\net7.0\EncadeamentoCondicional.csproj.CoreCompileInputs.cache
+C:\Users\97525\Desktop\C#\Comandos\EncadeamentoCondicional\obj\Debug\net7.0\EncadeamentoCondicional.dll
+C:\Users\97525\Desktop\C#\Comandos\EncadeamentoCondicional\obj\Debug\net7.0\refint\EncadeamentoCondicional.dll
+C:\Users\97525\Desktop\C#\Comandos\EncadeamentoCondicional\obj\Debug\net7.0\EncadeamentoCondicional.pdb
+C:\Users\97525\Desktop\C#\Comandos\EncadeamentoCondicional\obj\Debug\net7.0\EncadeamentoCondicional.genruntimeconfig.cache
+C:\Users\97525\Desktop\C#\Comandos\EncadeamentoCondicional\obj\Debug\net7.0\ref\EncadeamentoCondicional.dll

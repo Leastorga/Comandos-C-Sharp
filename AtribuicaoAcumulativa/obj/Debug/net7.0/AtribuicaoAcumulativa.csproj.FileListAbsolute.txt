@@ -1,0 +1,14 @@
+C:\Users\97525\Desktop\C#\Comandos\AtribuicaoAcumulativa\bin\Debug\net7.0\AtribuicaoAcumulativa.exe
+C:\Users\97525\Desktop\C#\Comandos\AtribuicaoAcumulativa\bin\Debug\net7.0\AtribuicaoAcumulativa.deps.json
+C:\Users\97525\Desktop\C#\Comandos\AtribuicaoAcumulativa\bin\Debug\net7.0\AtribuicaoAcumulativa.runtimeconfig.json
+C:\Users\97525\Desktop\C#\Comandos\AtribuicaoAcumulativa\bin\Debug\net7.0\AtribuicaoAcumulativa.dll
+C:\Users\97525\Desktop\C#\Comandos\AtribuicaoAcumulativa\bin\Debug\net7.0\AtribuicaoAcumulativa.pdb
+C:\Users\97525\Desktop\C#\Comandos\AtribuicaoAcumulativa\obj\Debug\net7.0\AtribuicaoAcumulativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97525\Desktop\C#\Comandos\AtribuicaoAcumulativa\obj\Debug\net7.0\AtribuicaoAcumulativa.AssemblyInfoInputs.cache
+C:\Users\97525\Desktop\C#\Comandos\AtribuicaoAcumulativa\obj\Debug\net7.0\AtribuicaoAcumulativa.AssemblyInfo.cs
+C:\Users\97525\Desktop\C#\Comandos\AtribuicaoAcumulativa\obj\Debug\net7.0\AtribuicaoAcumulativa.csproj.CoreCompileInputs.cache
+C:\Users\97525\Desktop\C#\Comandos\AtribuicaoAcumulativa\obj\Debug\net7.0\AtribuicaoAcumulativa.dll
+C:\Users\97525\Desktop\C#\Comandos\AtribuicaoAcumulativa\obj\Debug\net7.0\refint\AtribuicaoAcumulativa.dll
+C:\Users\97525\Desktop\C#\Comandos\AtribuicaoAcumulativa\obj\Debug\net7.0\AtribuicaoAcumulativa.pdb
+C:\Users\97525\Desktop\C#\Comandos\AtribuicaoAcumulativa\obj\Debug\net7.0\AtribuicaoAcumulativa.genruntimeconfig.cache
+C:\Users\97525\Desktop\C#\Comandos\AtribuicaoAcumulativa\obj\Debug\net7.0\ref\AtribuicaoAcumulativa.dll

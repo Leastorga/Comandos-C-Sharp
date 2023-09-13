@@ -1,0 +1,14 @@
+C:\Users\97525\Desktop\C#\Comandos\EstruturaCondicionalComposta\obj\Debug\net7.0\EstruturaCondicionalComposta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97525\Desktop\C#\Comandos\EstruturaCondicionalComposta\obj\Debug\net7.0\EstruturaCondicionalComposta.AssemblyInfoInputs.cache
+C:\Users\97525\Desktop\C#\Comandos\EstruturaCondicionalComposta\obj\Debug\net7.0\EstruturaCondicionalComposta.AssemblyInfo.cs
+C:\Users\97525\Desktop\C#\Comandos\EstruturaCondicionalComposta\obj\Debug\net7.0\EstruturaCondicionalComposta.csproj.CoreCompileInputs.cache
+C:\Users\97525\Desktop\C#\Comandos\EstruturaCondicionalComposta\bin\Debug\net7.0\EstruturaCondicionalComposta.exe
+C:\Users\97525\Desktop\C#\Comandos\EstruturaCondicionalComposta\bin\Debug\net7.0\EstruturaCondicionalComposta.deps.json
+C:\Users\97525\Desktop\C#\Comandos\EstruturaCondicionalComposta\bin\Debug\net7.0\EstruturaCondicionalComposta.runtimeconfig.json
+C:\Users\97525\Desktop\C#\Comandos\EstruturaCondicionalComposta\bin\Debug\net7.0\EstruturaCondicionalComposta.dll
+C:\Users\97525\Desktop\C#\Comandos\EstruturaCondicionalComposta\bin\Debug\net7.0\EstruturaCondicionalComposta.pdb
+C:\Users\97525\Desktop\C#\Comandos\EstruturaCondicionalComposta\obj\Debug\net7.0\EstruturaCondicionalComposta.dll
+C:\Users\97525\Desktop\C#\Comandos\EstruturaCondicionalComposta\obj\Debug\net7.0\refint\EstruturaCondicionalComposta.dll
+C:\Users\97525\Desktop\C#\Comandos\EstruturaCondicionalComposta\obj\Debug\net7.0\EstruturaCondicionalComposta.pdb
+C:\Users\97525\Desktop\C#\Comandos\EstruturaCondicionalComposta\obj\Debug\net7.0\EstruturaCondicionalComposta.genruntimeconfig.cache
+C:\Users\97525\Desktop\C#\Comandos\EstruturaCondicionalComposta\obj\Debug\net7.0\ref\EstruturaCondicionalComposta.dll
