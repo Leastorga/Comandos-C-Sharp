@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\97525\\Desktop\\C#\\Comandos\\For\\For.csproj": {}
+    "C:\\Users\\97525\\Desktop\\C#\\Comandos\\DoWhile\\DoWhile.csproj": {}
   },
   "projects": {
-    "c:\\Users\\97525\\Desktop\\C#\\Comandos\\For\\For.csproj": {
+    "C:\\Users\\97525\\Desktop\\C#\\Comandos\\DoWhile\\DoWhile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\97525\\Desktop\\C#\\Comandos\\For\\For.csproj",
-        "projectName": "For",
-        "projectPath": "c:\\Users\\97525\\Desktop\\C#\\Comandos\\For\\For.csproj",
+        "projectUniqueName": "C:\\Users\\97525\\Desktop\\C#\\Comandos\\DoWhile\\DoWhile.csproj",
+        "projectName": "DoWhile",
+        "projectPath": "C:\\Users\\97525\\Desktop\\C#\\Comandos\\DoWhile\\DoWhile.csproj",
         "packagesPath": "C:\\Users\\97525\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\97525\\Desktop\\C#\\Comandos\\For\\obj\\",
+        "outputPath": "C:\\Users\\97525\\Desktop\\C#\\Comandos\\DoWhile\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\97525\\AppData\\Roaming\\NuGet\\NuGet.Config"

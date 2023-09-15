@@ -1,0 +1,14 @@
+C:\Users\97525\Desktop\C#\Comandos\DoWhile\bin\Debug\net7.0\DoWhile.exe
+C:\Users\97525\Desktop\C#\Comandos\DoWhile\bin\Debug\net7.0\DoWhile.deps.json
+C:\Users\97525\Desktop\C#\Comandos\DoWhile\bin\Debug\net7.0\DoWhile.runtimeconfig.json
+C:\Users\97525\Desktop\C#\Comandos\DoWhile\bin\Debug\net7.0\DoWhile.dll
+C:\Users\97525\Desktop\C#\Comandos\DoWhile\bin\Debug\net7.0\DoWhile.pdb
+C:\Users\97525\Desktop\C#\Comandos\DoWhile\obj\Debug\net7.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97525\Desktop\C#\Comandos\DoWhile\obj\Debug\net7.0\DoWhile.AssemblyInfoInputs.cache
+C:\Users\97525\Desktop\C#\Comandos\DoWhile\obj\Debug\net7.0\DoWhile.AssemblyInfo.cs
+C:\Users\97525\Desktop\C#\Comandos\DoWhile\obj\Debug\net7.0\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\97525\Desktop\C#\Comandos\DoWhile\obj\Debug\net7.0\DoWhile.dll
+C:\Users\97525\Desktop\C#\Comandos\DoWhile\obj\Debug\net7.0\refint\DoWhile.dll
+C:\Users\97525\Desktop\C#\Comandos\DoWhile\obj\Debug\net7.0\DoWhile.pdb
+C:\Users\97525\Desktop\C#\Comandos\DoWhile\obj\Debug\net7.0\DoWhile.genruntimeconfig.cache
+C:\Users\97525\Desktop\C#\Comandos\DoWhile\obj\Debug\net7.0\ref\DoWhile.dll
