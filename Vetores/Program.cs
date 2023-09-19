@@ -8,6 +8,7 @@ namespace Name
             int N;
             double[] vet;
 
+
             N = int.Parse(Console.ReadLine());
             vet = new double[N];
             
@@ -20,7 +21,6 @@ namespace Name
             {
                 Console.WriteLine(vet[i].ToString("F1", CultureInfo.InvariantCulture));
             }
-
         }
     }
 }
